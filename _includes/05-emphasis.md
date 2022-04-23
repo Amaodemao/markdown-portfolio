@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**我的失败，彻彻底底**
+_我的悲剧，命中注定_
