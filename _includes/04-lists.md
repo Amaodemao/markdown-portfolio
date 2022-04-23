@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Homo
+* Senpai
+* YJSP
+  * 114514
+  * 1919810
